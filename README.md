@@ -1,4 +1,4 @@
-# This project is not yet complete or functional!
+# This project is not yet complete.
 # SQL Backed Hash cracking suite
 Perfect for server-based operations, HashDB stores known hashes, passwords, and unknown hashes in a local SQL database. Over time and usage, HashDB will build up its password list from your imports and its known hashes.
 <pre>
