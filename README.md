@@ -20,7 +20,7 @@ Perfect for server-based operations, HashDB stores known hashes, passwords, and 
 # Installation
 1. Clone the repository
     ```bash
-     git clone https://github.com/yourusername/HashDB.git
+     git clone https://github.com//cwsecur1ty/HashDB.git
 2. Navigate to the project directory:
    ```bash
    cd HashDB
